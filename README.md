@@ -4,6 +4,10 @@
     Ini style config parser
 
 
+# Requirements
+
+	go get github.com/TannerBurns/liteconfig/liteconfig
+
 # Example
 
     settings.conf
